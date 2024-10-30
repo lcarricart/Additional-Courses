@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section18" Database="" Version="10000">
+  <Project Name="11SampleProgram" Path="1IfCatchExceptionHandling/1IfCatchExceptionHandling.project" Active="No"/>
+  <Project Name="12ExceptionHandling" Path="12ExceptionHandling/12ExceptionHandling.project" Active="No"/>
+  <Project Name="2ExceptionHandlingOnFunction" Path="2ExceptionHandlingOnFunction/2ExceptionHandlingOnFunction.project" Active="No"/>
+  <Project Name="3StackUnwinding" Path="3StackUnwinding/3StackUnwinding.project" Active="No"/>
+  <Project Name="4UserDefinedExceptions" Path="4UserDefinedExceptions/4UserDefinedExceptions.project" Active="No"/>
+  <Project Name="5ConstructorException" Path="../Section16/Challenge/Challenge.project" Active="No"/>
+  <Project Name="6StandardExceptionClass" Path="6StandardExceptionClass/6StandardExceptionClass.project" Active="No"/>
+  <Project Name="7ChallengeSection" Path="ChallengeDifSource/Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="11SampleProgram" ConfigName="Debug"/>
+      <Project Name="12ExceptionHandling" ConfigName="Debug"/>
+      <Project Name="2ExceptionHandlingOnFunction" ConfigName="Debug"/>
+      <Project Name="3StackUnwinding" ConfigName="Debug"/>
+      <Project Name="4UserDefinedExceptions" ConfigName="Debug"/>
+      <Project Name="6StandardExceptionClass" ConfigName="Debug"/>
+      <Project Name="7ChallengeSection" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="11SampleProgram" ConfigName="Release"/>
+      <Project Name="12ExceptionHandling" ConfigName="Release"/>
+      <Project Name="2ExceptionHandlingOnFunction" ConfigName="Release"/>
+      <Project Name="3StackUnwinding" ConfigName="Release"/>
+      <Project Name="4UserDefinedExceptions" ConfigName="Release"/>
+      <Project Name="6StandardExceptionClass" ConfigName="Release"/>
+      <Project Name="7ChallengeSection" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
