@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section16" Database="" Version="10000">
+  <Project Name="1StaticBindingDefaultPolymorphism" Path="1StaticBindingDefaultPolymorphism/1StaticBindingDefaultPolymorphism.project" Active="No"/>
+  <Project Name="2DynamicBindingRunTimePolym" Path="DynamicBindingRunTimePolym/DynamicBindingRunTimePolym.project" Active="No"/>
+  <Project Name="3ClassReferencesPolymorphism" Path="ClassReferencesPolymorphism/ClassReferencesPolymorphism.project" Active="No"/>
+  <Project Name="4AbstractConcreteClasses" Path="4AbstractConcreteClasses/4AbstractConcreteClasses.project" Active="No"/>
+  <Project Name="5NonPolymorphOutStream" Path="5OutStreamPolymorphism/5OutStreamPolymorphism.project" Active="No"/>
+  <Project Name="6PolymorphicOutStream" Path="6PolymorphicOutStream/6PolymorphicOutStream.project" Active="Yes"/>
+  <Project Name="7ChallengeSection" Path="Challenge/Challenge.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="1StaticBindingDefaultPolymorphism" ConfigName="Debug"/>
+      <Project Name="2DynamicBindingRunTimePolym" ConfigName="Debug"/>
+      <Project Name="3ClassReferencesPolymorphism" ConfigName="Debug"/>
+      <Project Name="4AbstractConcreteClasses" ConfigName="Debug"/>
+      <Project Name="5NonPolymorphOutStream" ConfigName="Debug"/>
+      <Project Name="6PolymorphicOutStream" ConfigName="Debug"/>
+      <Project Name="7ChallengeSection" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="1StaticBindingDefaultPolymorphism" ConfigName="Release"/>
+      <Project Name="2DynamicBindingRunTimePolym" ConfigName="Release"/>
+      <Project Name="3ClassReferencesPolymorphism" ConfigName="Release"/>
+      <Project Name="4AbstractConcreteClasses" ConfigName="Release"/>
+      <Project Name="5NonPolymorphOutStream" ConfigName="Release"/>
+      <Project Name="6PolymorphicOutStream" ConfigName="Release"/>
+      <Project Name="7ChallengeSection" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
