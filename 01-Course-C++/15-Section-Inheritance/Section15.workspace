@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section15" Database="" Version="10000">
+  <Project Name="1DerivingClasses" Path="1DerivingClasses/1DerivingClasses.project" Active="No"/>
+  <Project Name="2ProtectedMemberClass" Path="2ProtectedMemberClass/2ProtectedMemberClass.project" Active="No"/>
+  <Project Name="3ConstructosDestructors" Path="3ConstructosDestructors/3ConstructosDestructors.project" Active="No"/>
+  <Project Name="4MethodInheritance" Path="4MethodInheritance/4MethodInheritance.project" Active="No"/>
+  <Project Name="5PraticeDerivedClass" Path="5PraticeDerivedClass/5PraticeDerivedClass.project" Active="No"/>
+  <Project Name="6ChallengeSection" Path="6ChallengeSection/6ChallengeSection.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="1DerivingClasses" ConfigName="Debug"/>
+      <Project Name="2ProtectedMemberClass" ConfigName="Debug"/>
+      <Project Name="3ConstructosDestructors" ConfigName="Debug"/>
+      <Project Name="4MethodInheritance" ConfigName="Debug"/>
+      <Project Name="5PraticeDerivedClass" ConfigName="Debug"/>
+      <Project Name="6ChallengeSection" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="1DerivingClasses" ConfigName="Release"/>
+      <Project Name="2ProtectedMemberClass" ConfigName="Release"/>
+      <Project Name="3ConstructosDestructors" ConfigName="Release"/>
+      <Project Name="4MethodInheritance" ConfigName="Release"/>
+      <Project Name="5PraticeDerivedClass" ConfigName="Release"/>
+      <Project Name="6ChallengeSection" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
