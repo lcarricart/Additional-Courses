@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section13" Database="" Version="10000">
+  <Project Name="1DeclareClassesAndObjects" Path="1DeclareClassesAndObjects/1DeclareClassesAndObjects.project" Active="No"/>
+  <Project Name="2AccesingClasses" Path="2AccesingClasses/2AccesingClasses.project" Active="No"/>
+  <Project Name="3AccesingClasses-2" Path="2-1AccesingClasses/2-1AccesingClasses.project" Active="No"/>
+  <Project Name="4MethodImplementation" Path="4MethodImplementation/4MethodImplementation.project" Active="No"/>
+  <Project Name="5MethodImplementation-2" Path="5MethodImplementation-2/5MethodImplementation-2.project" Active="No"/>
+  <Project Name="6ConstructorsDestructors" Path="6ConstructorsDestructors/6ConstructorsDestructors.project" Active="Yes"/>
+  <Project Name="7DefaultConstructor" Path="7DefaultConstructor/7DefaultConstructor.project" Active="No"/>
+  <Project Name="8ConstructorsInitialization" Path="8ConstructorsInitialization/8ConstructorsInitialization.project" Active="No"/>
+  <Project Name="911DelegatingConstructor" Path="9DelegatingConstructors/9DelegatingConstructors.project" Active="No"/>
+  <Project Name="912ConstructorDefaultParameters" Path="91ConstructorDefaultParameters/91ConstructorDefaultParameters.project" Active="No"/>
+  <Project Name="913CopyConstructor" Path="93CopyConstructor/93CopyConstructor.project" Active="No"/>
+  <Project Name="914ShallowCopy" Path="94ShallowCopy/94ShallowCopy.project" Active="No"/>
+  <Project Name="915DeepCopy" Path="95DeepCopy/95DeepCopy.project" Active="No"/>
+  <Project Name="916MoveConstructor" Path="96MoveConstructor/96MoveConstructor.project" Active="No"/>
+  <Project Name="917ConstWithClasses" Path="97ConstWithClasses/97ConstWithClasses.project" Active="No"/>
+  <Project Name="918StaticClassMembers" Path="98StaticClassMembers/98StaticClassMembers.project" Active="No"/>
+  <Project Name="919StructsVsClasses" Path="919StructsVsClasses/919StructsVsClasses.project" Active="No"/>
+  <Project Name="920FriendsOfClass" Path="921FriendsOfClass/921FriendsOfClass.project" Active="No"/>
+  <Project Name="921ChallengeSection" Path="921ChallengeSection/921ChallengeSection.project" Active="No"/>
+  <Project Name="922ChallengeSection_repeated" Path="922ChallengeSection_repeated/922ChallengeSection_repeated.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="1DeclareClassesAndObjects" ConfigName="Debug"/>
+      <Project Name="2AccesingClasses" ConfigName="Debug"/>
+      <Project Name="3AccesingClasses-2" ConfigName="Debug"/>
+      <Project Name="4MethodImplementation" ConfigName="Debug"/>
+      <Project Name="5MethodImplementation-2" ConfigName="Debug"/>
+      <Project Name="6ConstructorsDestructors" ConfigName="Debug"/>
+      <Project Name="7DefaultConstructor" ConfigName="Debug"/>
+      <Project Name="8ConstructorsInitialization" ConfigName="Debug"/>
+      <Project Name="911DelegatingConstructor" ConfigName="Debug"/>
+      <Project Name="912ConstructorDefaultParameters" ConfigName="Debug"/>
+      <Project Name="913CopyConstructor" ConfigName="Debug"/>
+      <Project Name="914ShallowCopy" ConfigName="Debug"/>
+      <Project Name="915DeepCopy" ConfigName="Debug"/>
+      <Project Name="916MoveConstructor" ConfigName="Debug"/>
+      <Project Name="917ConstWithClasses" ConfigName="Debug"/>
+      <Project Name="918StaticClassMembers" ConfigName="Debug"/>
+      <Project Name="919StructsVsClasses" ConfigName="Debug"/>
+      <Project Name="920FriendsOfClass" ConfigName="Debug"/>
+      <Project Name="921ChallengeSection" ConfigName="Debug"/>
+      <Project Name="922ChallengeSection_repeated" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="1DeclareClassesAndObjects" ConfigName="Release"/>
+      <Project Name="2AccesingClasses" ConfigName="Release"/>
+      <Project Name="3AccesingClasses-2" ConfigName="Release"/>
+      <Project Name="4MethodImplementation" ConfigName="Release"/>
+      <Project Name="5MethodImplementation-2" ConfigName="Release"/>
+      <Project Name="6ConstructorsDestructors" ConfigName="Release"/>
+      <Project Name="7DefaultConstructor" ConfigName="Release"/>
+      <Project Name="8ConstructorsInitialization" ConfigName="Release"/>
+      <Project Name="911DelegatingConstructor" ConfigName="Release"/>
+      <Project Name="912ConstructorDefaultParameters" ConfigName="Release"/>
+      <Project Name="913CopyConstructor" ConfigName="Release"/>
+      <Project Name="914ShallowCopy" ConfigName="Release"/>
+      <Project Name="915DeepCopy" ConfigName="Release"/>
+      <Project Name="916MoveConstructor" ConfigName="Release"/>
+      <Project Name="917ConstWithClasses" ConfigName="Release"/>
+      <Project Name="918StaticClassMembers" ConfigName="Release"/>
+      <Project Name="919StructsVsClasses" ConfigName="Release"/>
+      <Project Name="920FriendsOfClass" ConfigName="Release"/>
+      <Project Name="921ChallengeSection" ConfigName="Release"/>
+      <Project Name="922ChallengeSection_repeated" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
