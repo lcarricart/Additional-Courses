@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section12" Database="" Version="10000">
+  <Project Name="1DefiningPointers" Path="1DefiningPointers/1DefiningPointers.project" Active="No"/>
+  <Project Name="2DereferencingPointers" Path="2DereferencingPointers/2DereferencingPointers.project" Active="No"/>
+  <Project Name="3ArraysByPointers" Path="3ArraysByPointers/3ArraysByPointers.project" Active="No"/>
+  <Project Name="4PointersToFunctions" Path="4PointersToFunctions/4PointersToFunctions.project" Active="No"/>
+  <Project Name="5DynamicMemoryPointerFromFunction" Path="5ReturnPointerFromFunction/5ReturnPointerFromFunction.project" Active="No"/>
+  <Project Name="6Debugger" Path="6Debugger/6Debugger.project" Active="No"/>
+  <Project Name="7ChallengeSection" Path="7ChallengeSection/7ChallengeSection.project" Active="Yes"/>
+  <Project Name="8R-Lvalues" Path="8R-Lvalues/8R-Lvalues.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="1DefiningPointers" ConfigName="Debug"/>
+      <Project Name="2DereferencingPointers" ConfigName="Debug"/>
+      <Project Name="3ArraysByPointers" ConfigName="Debug"/>
+      <Project Name="4PointersToFunctions" ConfigName="Debug"/>
+      <Project Name="5DynamicMemoryPointerFromFunction" ConfigName="Debug"/>
+      <Project Name="6Debugger" ConfigName="Debug"/>
+      <Project Name="7ChallengeSection" ConfigName="Debug"/>
+      <Project Name="8R-Lvalues" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="1DefiningPointers" ConfigName="Release"/>
+      <Project Name="2DereferencingPointers" ConfigName="Release"/>
+      <Project Name="3ArraysByPointers" ConfigName="Release"/>
+      <Project Name="4PointersToFunctions" ConfigName="Release"/>
+      <Project Name="5DynamicMemoryPointerFromFunction" ConfigName="Release"/>
+      <Project Name="6Debugger" ConfigName="Release"/>
+      <Project Name="7ChallengeSection" ConfigName="Release"/>
+      <Project Name="8R-Lvalues" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
