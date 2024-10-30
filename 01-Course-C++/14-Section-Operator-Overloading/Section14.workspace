@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section14" Database="" Version="10000">
+  <Project Name="1OperatorOverloading" Path="1OperatorOverloading/1OperatorOverloading.project" Active="No"/>
+  <Project Name="2OperatorOverloading" Path="2OperatorOverloading/2OperatorOverloading.project" Active="No"/>
+  <Project Name="3OverloadStreamInsertionOperator" Path="3OverloadStreamInsertionOperator/3OverloadStreamInsertionOperator.project" Active="No"/>
+  <Project Name="4ChallengeSection" Path="4ChallengeSection/4ChallengeSection.project" Active="No"/>
+  <Project Name="5Re-Do_ChallengeSection" Path="5Re-Do_ChallengeSection/5Re-Do_ChallengeSection.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="1OperatorOverloading" ConfigName="Debug"/>
+      <Project Name="2OperatorOverloading" ConfigName="Debug"/>
+      <Project Name="3OverloadStreamInsertionOperator" ConfigName="Debug"/>
+      <Project Name="4ChallengeSection" ConfigName="Debug"/>
+      <Project Name="5Re-Do_ChallengeSection" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="1OperatorOverloading" ConfigName="Release"/>
+      <Project Name="2OperatorOverloading" ConfigName="Release"/>
+      <Project Name="3OverloadStreamInsertionOperator" ConfigName="Release"/>
+      <Project Name="4ChallengeSection" ConfigName="Release"/>
+      <Project Name="5Re-Do_ChallengeSection" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
