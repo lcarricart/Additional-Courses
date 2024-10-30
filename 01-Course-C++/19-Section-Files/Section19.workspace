@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section19" Database="" Version="10000">
+  <Project Name="1BoolManip" Path="1BoolManip/1BoolManip.project" Active="No"/>
+  <Project Name="2IntegerManip" Path="2IntegerManip/2IntegerManip.project" Active="No"/>
+  <Project Name="3FloatManip" Path="3FloatManip/3FloatManip.project" Active="No"/>
+  <Project Name="4TablesDataManip" Path="4TablesDataManip/4TablesDataManip.project" Active="No"/>
+  <Project Name="5Challenge_1" Path="Challenge_1/Challenge_1.project" Active="No"/>
+  <Project Name="6ReadFile" Path="6ReadFile/6ReadFile.project" Active="No"/>
+  <Project Name="7ReadFile_2" Path="7ReadFile_2/7ReadFile_2.project" Active="No"/>
+  <Project Name="8ReadFile_3" Path="8ReadFile_3/8ReadFile_3.project" Active="No"/>
+  <Project Name="910ReadFile_4" Path="9ReadFile_4/9ReadFile_4.project" Active="No"/>
+  <Project Name="911Challenge_2" Path="910Challenge_2/910Challenge_2.project" Active="No"/>
+  <Project Name="912Challenge_3" Path="912Challenge_3/912Challenge_3.project" Active="No"/>
+  <Project Name="914Chellenge_4" Path="914Chellenge_4/914Chellenge_4.project" Active="No"/>
+  <Project Name="913WriteFile" Path="913WriteFile/913WriteFile.project" Active="No"/>
+  <Project Name="913zCopyFile" Path="913zCopyFile/913zCopyFile.project" Active="No"/>
+  <Project Name="915StringStream" Path="915StringStream/915StringStream.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="1BoolManip" ConfigName="Debug"/>
+      <Project Name="2IntegerManip" ConfigName="Debug"/>
+      <Project Name="3FloatManip" ConfigName="Debug"/>
+      <Project Name="4TablesDataManip" ConfigName="Debug"/>
+      <Project Name="5Challenge_1" ConfigName="Debug"/>
+      <Project Name="6ReadFile" ConfigName="Debug"/>
+      <Project Name="7ReadFile_2" ConfigName="Debug"/>
+      <Project Name="8ReadFile_3" ConfigName="Debug"/>
+      <Project Name="910ReadFile_4" ConfigName="Debug"/>
+      <Project Name="911Challenge_2" ConfigName="Debug"/>
+      <Project Name="912Challenge_3" ConfigName="Debug"/>
+      <Project Name="914Chellenge_4" ConfigName="Debug"/>
+      <Project Name="913WriteFile" ConfigName="Debug"/>
+      <Project Name="913zCopyFile" ConfigName="Debug"/>
+      <Project Name="915StringStream" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="1BoolManip" ConfigName="Release"/>
+      <Project Name="2IntegerManip" ConfigName="Release"/>
+      <Project Name="3FloatManip" ConfigName="Release"/>
+      <Project Name="4TablesDataManip" ConfigName="Release"/>
+      <Project Name="5Challenge_1" ConfigName="Release"/>
+      <Project Name="6ReadFile" ConfigName="Release"/>
+      <Project Name="7ReadFile_2" ConfigName="Release"/>
+      <Project Name="8ReadFile_3" ConfigName="Release"/>
+      <Project Name="910ReadFile_4" ConfigName="Release"/>
+      <Project Name="911Challenge_2" ConfigName="Release"/>
+      <Project Name="912Challenge_3" ConfigName="Release"/>
+      <Project Name="914Chellenge_4" ConfigName="Release"/>
+      <Project Name="913WriteFile" ConfigName="Release"/>
+      <Project Name="913zCopyFile" ConfigName="Release"/>
+      <Project Name="915StringStream" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
