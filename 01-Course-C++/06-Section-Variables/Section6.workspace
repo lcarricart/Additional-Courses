@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section6" Database="" Version="10000">
+  <Project Name="VariablesBasics" Path="VariablesAndNames/VariablesAndNames.project" Active="Yes"/>
+  <Project Name="SizeIntegerFloatLocal" Path="SizeIntegerFloatLocal/SizeIntegerFloatLocal.project" Active="No"/>
+  <Project Name="SearchAndReplace" Path="SearchAndReplace/SearchAndReplace.project" Active="No"/>
+  <Project Name="ChallengeSection" Path="ChallengeSection/ChallengeSection.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="VariablesBasics" ConfigName="Debug"/>
+      <Project Name="SizeIntegerFloatLocal" ConfigName="Debug"/>
+      <Project Name="SearchAndReplace" ConfigName="Debug"/>
+      <Project Name="ChallengeSection" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="VariablesBasics" ConfigName="Release"/>
+      <Project Name="SizeIntegerFloatLocal" ConfigName="Release"/>
+      <Project Name="SearchAndReplace" ConfigName="Release"/>
+      <Project Name="ChallengeSection" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
