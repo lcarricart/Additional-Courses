@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section8" Database="" Version="10000">
+  <Project Name="2IncrementOperator" Path="2MathOperators/2MathOperators.project" Active="No"/>
+  <Project Name="3TypeCoersionCasting" Path="3TypeCoersionPromotion/3TypeCoersionPromotion.project" Active="No"/>
+  <Project Name="4BooleanOperators" Path="4Operators/4Operators.project" Active="No"/>
+  <Project Name="5LogicalOperator" Path="5LogicalOperator/5LogicalOperator.project" Active="No"/>
+  <Project Name="0MathOperators" Path="0MathOperators/0MathOperators.project" Active="No"/>
+  <Project Name="6ChallengeSection" Path="6ChallengeSection/6ChallengeSection.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="1SearchReplace" ConfigName="Debug"/>
+      <Project Name="2IncrementOperator" ConfigName="Debug"/>
+      <Project Name="3TypeCoersionCasting" ConfigName="Debug"/>
+      <Project Name="4BooleanOperators" ConfigName="Debug"/>
+      <Project Name="5LogicalOperator" ConfigName="Debug"/>
+      <Project Name="0MathOperators" ConfigName="Debug"/>
+      <Project Name="6ChallengeSection" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="1SearchReplace" ConfigName="Release"/>
+      <Project Name="2IncrementOperator" ConfigName="Release"/>
+      <Project Name="3TypeCoersionCasting" ConfigName="Release"/>
+      <Project Name="4BooleanOperators" ConfigName="Release"/>
+      <Project Name="5LogicalOperator" ConfigName="Release"/>
+      <Project Name="0MathOperators" ConfigName="Release"/>
+      <Project Name="6ChallengeSection" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
