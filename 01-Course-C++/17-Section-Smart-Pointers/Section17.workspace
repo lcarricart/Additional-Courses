@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section17" Database="" Version="10000">
+  <Project Name="1UniquePointer" Path="1UniquePointer/1UniquePointer.project" Active="No"/>
+  <Project Name="2SharedPointer" Path="2SharedPointer/2SharedPointer.project" Active="No"/>
+  <Project Name="31WeakPointerMemoryLeak" Path="3WeakPointer/3WeakPointer.project" Active="No"/>
+  <Project Name="32WeakPointer" Path="31WeakPointer/31WeakPointer.project" Active="No"/>
+  <Project Name="4CustomDeleters" Path="4CustomDeleters/4CustomDeleters.project" Active="No"/>
+  <Project Name="5ChallengeSection" Path="5ChallengeSection/5ChallengeSection.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="1UniquePointer" ConfigName="Debug"/>
+      <Project Name="2SharedPointer" ConfigName="Debug"/>
+      <Project Name="31WeakPointerMemoryLeak" ConfigName="Debug"/>
+      <Project Name="32WeakPointer" ConfigName="Debug"/>
+      <Project Name="4CustomDeleters" ConfigName="Debug"/>
+      <Project Name="5ChallengeSection" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="1UniquePointer" ConfigName="Release"/>
+      <Project Name="2SharedPointer" ConfigName="Release"/>
+      <Project Name="31WeakPointerMemoryLeak" ConfigName="Release"/>
+      <Project Name="32WeakPointer" ConfigName="Release"/>
+      <Project Name="4CustomDeleters" ConfigName="Release"/>
+      <Project Name="5ChallengeSection" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
