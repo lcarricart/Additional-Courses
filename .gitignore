@@ -34,3 +34,8 @@ dist/
 
 # Specific to this repository's languages
 **/Makefile
+
+# New patterns to exclude
+*.txt
+*.project
+*.mk
