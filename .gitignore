@@ -28,4 +28,9 @@ obj/
 build/
 dist/
 
+# Ignore IDE/editor directories
+.idea/
+.vscode/
+
+# Specific to this repository's languages
 **/Makefile
